@@ -25,6 +25,7 @@ const HeroBanner = () => {
         Check out the most effective exercises
       </Typography>
       <Button
+        className="search-btn"
         href="#exercises"
         variant="contained"
         sx={{ backgroundColor: "#FF2625", padding: "10px" }}
